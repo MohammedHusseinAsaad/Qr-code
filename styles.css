@@ -10,7 +10,6 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  font-family: "outfit", sans-serif;
 }
 .card {
   background-color: white;
@@ -26,6 +25,7 @@ body {
   padding: 10px;
   text-align: center;
   margin: 14px 0;
+  font-family: "outfit", sans-serif;
 }
 .text1 h1 {
   font-size: 27px;
@@ -37,6 +37,7 @@ body {
 .text2 p {
   color: hsl(216, 15%, 48%);
   padding: 0 15px;
+  font-family: "outfit", sans-serif;
 }
 .image {
   padding: 9px;
